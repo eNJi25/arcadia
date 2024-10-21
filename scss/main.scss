@@ -1,2 +1,27 @@
 @import url("/node_modules/bootstrap-icons/font/bootstrap-icons.css");
 @import "custom";
+
+/* START */
+/* Header */
+
+.navbar-brand {
+  font-family: "Pacifico";
+  color: #f5f5dc;
+
+  &:hover {
+    color: #f5f5dc;
+  }
+}
+
+.nav-link {
+  color: #f5f5dc;
+
+  &:hover {
+    color: #f5f5dc;
+    font-weight: bold;
+    border-bottom: solid 1px #f5f5dc;
+  }
+}
+
+/* END */
+/* HEADER */

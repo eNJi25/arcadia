@@ -11965,4 +11965,25 @@ textarea.form-control-lg {
   .d-print-none {
     display: none !important;
   }
-}/*# sourceMappingURL=main.css.map */
+}
+/* START */
+/* Header */
+.navbar-brand {
+  font-family: "Pacifico";
+  color: #f5f5dc;
+}
+.navbar-brand:hover {
+  color: #f5f5dc;
+}
+
+.nav-link {
+  color: #f5f5dc;
+}
+.nav-link:hover {
+  color: #f5f5dc;
+  font-weight: bold;
+  border-bottom: solid 1px #f5f5dc;
+}
+
+/* END */
+/* HEADER *//*# sourceMappingURL=main.css.map */
