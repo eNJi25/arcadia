@@ -1,3 +1,10 @@
+<?php
+
+require_once 'vendor/autoload.php';
+
+?>
+
+
 <!DOCTYPE html>
 <html lang="fr">
 
@@ -34,7 +41,7 @@
                             <a class="nav-link" href="#">Services</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Habitat</a>
+                            <a class="nav-link" href="#">Habitats</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#">Contact</a>
@@ -43,7 +50,7 @@
                             <a class="nav-link" href="#">Avis</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Rapport</a>
+                            <a class="nav-link" href="#">Rapports</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#">Connexion/Déconnexion</a>
