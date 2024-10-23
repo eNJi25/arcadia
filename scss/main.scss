@@ -2,6 +2,21 @@
 @import "custom";
 
 /* START */
+/* GENERAL */
+
+.color-principal {
+  color: #f5f5dc;
+}
+
+a {
+  text-decoration: none;
+  color: #f5f5dc;
+}
+
+/* END* /
+/* GENERAL */
+
+/* START */
 /* Header */
 
 .navbar-brand {
@@ -33,3 +48,18 @@
 
 /* END */
 /* HEADER */
+
+/* START */
+/* FOOTER */
+
+footer {
+  color: #f5f5dc;
+}
+
+.bi {
+  color: #f5f5dc;
+  border-color: #f5f5dc;
+}
+
+/* END */
+/* FOOTER */
